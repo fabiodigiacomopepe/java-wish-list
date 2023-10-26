@@ -1,0 +1,12 @@
+Regalo
+Descrizione: Regalo bello
+Destinatario: io
+ 
+Regalo
+Descrizione: Regalo bellissimo
+Destinatario: Fabio
+ 
+Regalo
+Descrizione: prova riscrittura con append (true)
+Destinatario: prova
+ 
